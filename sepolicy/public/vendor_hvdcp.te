@@ -1,0 +1,1 @@
+allow vendor_hvdcp vendor_sysfs_iio:dir { read };

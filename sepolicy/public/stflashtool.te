@@ -1,0 +1,2 @@
+allow stflashtool nfc_prop:file { read };
+allow stflashtool nfc_prop:property_service { set };
